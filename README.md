@@ -70,7 +70,7 @@ Created visualizations to understand the dataset:
 ### 5. Model Building
 Trained a Machine Learning Classification model using:
 
-- Random Forest Classifier
+- Decision Tree Classifier
 
 ### 6. Model Evaluation
 Evaluated the model using:
@@ -104,7 +104,7 @@ The confusion matrix shows that all flower species were classified correctly.
 - The Iris dataset is balanced across all three species.
 - Petal measurements are highly useful for distinguishing species.
 - Setosa is easily separable from the other species.
-- The trained Random Forest model achieved perfect classification on the test data.
+- The trained Decision Tree model achieved perfect classification on the test data.
 
 ---
 
